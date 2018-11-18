@@ -1,0 +1,1 @@
+This is one of the Lab Work that we did on week 3 WDI-49 at GA 11/16/2018. It uses API's such as google-map and USGS earthquake data. 
